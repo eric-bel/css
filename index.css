@@ -64,7 +64,8 @@ a:visited {
 }
 
 .head-text h1 {
-  color: #e5ffe7;
+/*   color: #e5ffe7; */
+  color: darkcyan;
 }
 
 /* Box  model*/
